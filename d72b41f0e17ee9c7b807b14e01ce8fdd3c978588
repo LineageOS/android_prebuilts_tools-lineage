@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff4eeb54_b89ba28f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2022-04-19T23:29:56Z",
+      "side": 1,
+      "message": "Verified building on Linux (Ubuntu 21.10) host\nI guess technically needs testing on Darwin but the binary should be the same afaik",
+      "revId": "d72b41f0e17ee9c7b807b14e01ce8fdd3c978588",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
