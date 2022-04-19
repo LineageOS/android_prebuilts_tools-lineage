@@ -16,6 +16,23 @@
       "message": "Verified building on Linux (Ubuntu 21.10) host\nI guess technically needs testing on Darwin but the binary should be the same afaik",
       "revId": "d72b41f0e17ee9c7b807b14e01ce8fdd3c978588",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3bad98a_c34adef3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-19T23:33:22Z",
+      "side": 1,
+      "message": "missing: mkimage version, configuration/compilation details",
+      "revId": "d72b41f0e17ee9c7b807b14e01ce8fdd3c978588",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
