@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ef910b28_95a5c3fe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2022-04-20T14:51:30Z",
+      "side": 1,
+      "message": "Ok added version and compile details etc.\nCompiled from latest u-boot stable release",
+      "revId": "e0fa812502521f2b58be0376e183cacfda5215bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
