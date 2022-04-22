@@ -33,6 +33,24 @@
       "message": "Why was the darwin blob deleted?\n\nThis works on hot and fresh distro, but on Ubuntu 20.04.4 LTS:\n $ ./linux-x86/bin/mkimage\n ./linux-x86/bin/mkimage: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34\u0027 not found (required by ./linux-x86/bin/mkimage)\n ./linux-x86/bin/mkimage: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33\u0027 not found (required by ./linux-x86/bin/mkimage)",
       "revId": "e0fa812502521f2b58be0376e183cacfda5215bc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78fce292_4cb76250",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2022-04-22T13:55:20Z",
+      "side": 1,
+      "message": "re: darwin: couldn\u0027t verify myself and was told darwin didn\u0027t really matter :) I can easily throw that back in but someone will need to test for me unless i get around to digging up some mac my school owns\n\nre: 20.04.4 LTS: i shall recomp on ubu 20.04.4 LTS, but btw that is not latest LTS. 22.04 was released yesterday and is now the latest LTS release.",
+      "parentUuid": "2f780fbf_9544068d",
+      "revId": "e0fa812502521f2b58be0376e183cacfda5215bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
