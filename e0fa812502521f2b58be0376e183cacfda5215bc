@@ -16,6 +16,23 @@
       "message": "Ok added version and compile details etc.\nCompiled from latest u-boot stable release",
       "revId": "e0fa812502521f2b58be0376e183cacfda5215bc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f780fbf_9544068d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-22T13:50:40Z",
+      "side": 1,
+      "message": "Why was the darwin blob deleted?\n\nThis works on hot and fresh distro, but on Ubuntu 20.04.4 LTS:\n $ ./linux-x86/bin/mkimage\n ./linux-x86/bin/mkimage: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34\u0027 not found (required by ./linux-x86/bin/mkimage)\n ./linux-x86/bin/mkimage: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33\u0027 not found (required by ./linux-x86/bin/mkimage)",
+      "revId": "e0fa812502521f2b58be0376e183cacfda5215bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
