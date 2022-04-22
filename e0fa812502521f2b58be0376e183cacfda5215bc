@@ -51,6 +51,24 @@
       "parentUuid": "2f780fbf_9544068d",
       "revId": "e0fa812502521f2b58be0376e183cacfda5215bc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5fff5055_4e9ed74d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-22T13:59:28Z",
+      "side": 1,
+      "message": "And 16.04.* was our LTS target until around last year, maybe the year prior...",
+      "parentUuid": "78fce292_4cb76250",
+      "revId": "e0fa812502521f2b58be0376e183cacfda5215bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
