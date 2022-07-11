@@ -33,6 +33,23 @@
       "message": "Run fine on Ubuntu 22.04 and 18.04.",
       "revId": "3ace6b27bba096fb695077c90b602c265a08adc5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e89c464_d899c326",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-07-11T20:19:27Z",
+      "side": 1,
+      "message": "Can\u0027t we drop this and use the host binary from out?",
+      "revId": "3ace6b27bba096fb695077c90b602c265a08adc5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
