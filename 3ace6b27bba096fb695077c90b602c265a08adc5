@@ -50,6 +50,23 @@
       "message": "Can\u0027t we drop this and use the host binary from out?",
       "revId": "3ace6b27bba096fb695077c90b602c265a08adc5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ab8931a_8a8cfd39",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-07-13T00:08:13Z",
+      "side": 1,
+      "message": "Using the built one https://review.lineageos.org/c/LineageOS/android_prebuilts_tools-lineage/+/334199",
+      "revId": "3ace6b27bba096fb695077c90b602c265a08adc5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
