@@ -67,6 +67,23 @@
       "message": "Using the built one https://review.lineageos.org/c/LineageOS/android_prebuilts_tools-lineage/+/334199",
       "revId": "3ace6b27bba096fb695077c90b602c265a08adc5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "acb87cb7_dd37180b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-08-08T00:24:25Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/android_prebuilts_tools-lineage/+/334199",
+      "revId": "3ace6b27bba096fb695077c90b602c265a08adc5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
