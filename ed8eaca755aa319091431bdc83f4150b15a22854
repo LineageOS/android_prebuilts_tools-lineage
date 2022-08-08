@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c6d4586c_d3757cf9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-08-08T00:24:14Z",
+      "side": 1,
+      "message": "$ which lz4\nout/common-out/lineage-19.1/soong/host/linux-x86/bin/lz4\n\nWorks on redbull",
+      "revId": "ed8eaca755aa319091431bdc83f4150b15a22854",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
