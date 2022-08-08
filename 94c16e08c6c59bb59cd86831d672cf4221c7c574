@@ -16,6 +16,23 @@
       "message": "Had to keep lz4c for pre 4.19 kernels",
       "revId": "94c16e08c6c59bb59cd86831d672cf4221c7c574",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "456012bf_17c77988",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-08-08T14:58:22Z",
+      "side": 1,
+      "message": "Works on pixel 3-5 which all use lz4",
+      "revId": "94c16e08c6c59bb59cd86831d672cf4221c7c574",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
