@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7ff7d3bf_b490e173",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2022-08-16T18:07:13Z",
+      "side": 1,
+      "message": "works in concord (agx orin) edk2 compile",
+      "revId": "ebaef5279e9599738922c691d7824af22c6e2cb8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
