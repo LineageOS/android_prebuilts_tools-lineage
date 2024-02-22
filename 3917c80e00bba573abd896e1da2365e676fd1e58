@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3c0d9474_73ce0e14",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-02-22T22:31:00Z",
+      "side": 1,
+      "message": "I couldn\u0027t get bash one to work, but since we ship perl here, why not use it :)",
+      "revId": "3917c80e00bba573abd896e1da2365e676fd1e58",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
