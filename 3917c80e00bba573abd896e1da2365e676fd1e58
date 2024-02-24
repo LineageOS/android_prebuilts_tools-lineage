@@ -33,6 +33,24 @@
       "message": "not against having this it, but imo its the wrong (or only half?) solution for the problem",
       "revId": "3917c80e00bba573abd896e1da2365e676fd1e58",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c339a5b_8ec8df70",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-02-24T01:43:52Z",
+      "side": 1,
+      "message": "This is also useful for people that uses fragments to enable device-specific drivers",
+      "parentUuid": "17032a82_d14ff7e3",
+      "revId": "3917c80e00bba573abd896e1da2365e676fd1e58",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
