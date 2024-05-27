@@ -2,6 +2,9 @@
 
 This repository includes various open-source components, each licensed under different open-source licenses. The following is a breakdown of the licenses applicable to the software distributed in this repository:
 
+### **bootconfig**
+- Bootconfig is a program built from the Linux kernel source code. It is licensed under the GNU General Public License v2 (GPLv2). See the file `LICENSE_GPLv2`.
+
 ### **cpio**
 - Licensed under the GNU General Public License (GPL), version 3 or later. See the file `LICENSE_GPLv3`.
 
