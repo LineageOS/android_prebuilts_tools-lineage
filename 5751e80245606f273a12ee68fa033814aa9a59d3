@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca1021c4_00ad5bd2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-08-08T12:44:01Z",
+      "side": 1,
+      "message": "```\nLicense:\nGPL version 3 or later.\n```\nNo idea how we treat binaries here, but I hope this won\u0027t be an issue",
+      "revId": "5751e80245606f273a12ee68fa033814aa9a59d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
