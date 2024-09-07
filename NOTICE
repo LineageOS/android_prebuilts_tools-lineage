@@ -1,0 +1,36 @@
+# NOTICE
+
+This repository includes various open-source components, each licensed under different open-source licenses. The following is a breakdown of the licenses applicable to the software distributed in this repository:
+
+### **bootconfig**
+- Bootconfig is a program built from the Linux kernel source code. It is licensed under the GNU General Public License v2 (GPLv2). See the file `LICENSE_GPLv2`.
+
+### **cpio**
+- Licensed under the GNU General Public License (GPL), version 3 or later. See the file `LICENSE_GPLv3`.
+
+### **dtc**
+- Please refer to dtc's README.license file: [dtc License README](https://android.googlesource.com/platform/external/dtc/+/refs/heads/main/README.license).
+
+### **iasl (Intel ACPI Component Architecture Compiler)**
+- Please refer to Intel's official licensing page: [Intel ACPI Licensing](https://www.intel.com/content/www/us/en/developer/articles/license/acpica-licensing.html).
+
+### **lz4c**
+- LZ4 is dual-licensed under the BSD License (3-Clause), and the GNU General Public License v2 (GPLv2). See the files `LICENSE_BSD_lz4` and `LICENSE_GPLv2`.
+
+### **lzma (part of XZ Utils)**
+- This version of lzma is in the public domain. No license is required for redistribution or modification.
+
+### **mogrify (ImageMagick)**
+- Please refer to ImageMagick's official licensing page: [ImageMagick License](https://imagemagick.org/script/license.php).
+
+### **mtools (includes mcopy, mformat)**
+- Licensed under the GNU General Public License v3 (GPLv3). See the file `LICENSE_GPLv3`.
+
+### **perl and perl5.26.1**
+- Perl is dual-licensed under the GNU General Public License (GPL) version 1 or later, and the Artistic License. See the files `LICENSE_GPL` and `LICENSE_Artistic`.
+
+### **xorriso**
+- Licensed under the GNU General Public License (GPL), version 3 or later. See the file `LICENSE_GPLv3`.
+
+### **yes**
+- Licensed under the MIT License. See the file `LICENSE_MIT_yes`.
