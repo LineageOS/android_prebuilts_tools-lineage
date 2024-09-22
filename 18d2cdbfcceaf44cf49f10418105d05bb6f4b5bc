@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8b596ee_72eee676",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-09-22T00:13:42Z",
+      "side": 1,
+      "message": "You should set up licenses with https://github.com/fsfe/reuse-tool instead",
+      "revId": "18d2cdbfcceaf44cf49f10418105d05bb6f4b5bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
