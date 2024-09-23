@@ -16,6 +16,23 @@
       "message": "You should set up licenses with https://github.com/fsfe/reuse-tool instead",
       "revId": "18d2cdbfcceaf44cf49f10418105d05bb6f4b5bc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d1b20306_67844650",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2024-09-23T21:10:38Z",
+      "side": 1,
+      "message": "made that change bcz of https://review.lineageos.org/c/LineageOS/android_prebuilts_tools-lineage/+/398285/comments/0b702479_5660c62a , but idc now",
+      "revId": "18d2cdbfcceaf44cf49f10418105d05bb6f4b5bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
