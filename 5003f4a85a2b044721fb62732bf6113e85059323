@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9d6056b_f3e6e56e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-22T00:03:02Z",
+      "side": 1,
+      "message": "I could stuff this into device tree, but if we support it in build/, it should be somewhere common.\n\nIt comes from prebuilts/misc, which isn\u0027t feasible to fork.",
+      "revId": "5003f4a85a2b044721fb62732bf6113e85059323",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
