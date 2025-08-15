@@ -1,0 +1,19 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+prebuilt_build_tool {
+    name: "mogrify",
+    arch: {
+        x86_64: {
+            enabled: true,
+        },
+    },
+    target: {
+        linux: {
+            src: "linux-x86/bin/mogrify",
+        },
+    },
+    visibility: ["//vendor:__subpackages__"],
+}
