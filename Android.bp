@@ -4,6 +4,21 @@
 //
 
 prebuilt_build_tool {
+    name: "alsatplg",
+    arch: {
+        x86_64: {
+            enabled: true,
+        },
+    },
+    target: {
+        linux: {
+            src: "linux-x86/bin/alsatplg",
+        },
+    },
+    visibility: ["//hardware:__subpackages__"],
+}
+
+prebuilt_build_tool {
     name: "mogrify",
     arch: {
         x86_64: {
