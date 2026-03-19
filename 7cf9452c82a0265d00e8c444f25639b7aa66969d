@@ -16,6 +16,23 @@
       "message": "Needs to be static.",
       "revId": "7cf9452c82a0265d00e8c444f25639b7aa66969d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d7dbe9ee_c7d1072d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-03-19T17:45:55Z",
+      "side": 1,
+      "message": "Meh, only depends on libc and vdso, should be fine",
+      "revId": "7cf9452c82a0265d00e8c444f25639b7aa66969d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
