@@ -15,7 +15,10 @@ prebuilt_build_tool {
             src: "linux-x86/bin/alsatplg",
         },
     },
-    visibility: ["//hardware:__subpackages__"],
+    visibility: [
+        "//device:__subpackages__",
+        "//hardware:__subpackages__",
+    ],
 }
 
 prebuilt_build_tool {
